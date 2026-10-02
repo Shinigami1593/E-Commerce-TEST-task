@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Bluetooth Headphones",
+    "price": 49.99,
+    "description": "Over-ear wireless headphones with noise isolation and a 20-hour battery life.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": { "rate": 4.2, "count": 210 }
+  },
+  {
+    "id": 2,
+    "title": "Portable Bluetooth Speaker",
+    "price": 34.5,
+    "description": "Compact speaker with deep bass and 12-hour playtime, water resistant.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    "rating": { "rate": 3.9, "count": 87 }
+  },
+  {
+    "id": 3,
+    "title": "27-inch 4K Monitor",
+    "price": 289.99,
+    "description": "Ultra HD monitor with HDR support, ideal for work and creative projects.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+    "rating": { "rate": 4.5, "count": 152 }
+  },
+  {
+    "id": 4,
+    "title": "Mechanical Gaming Keyboard",
+    "price": 79.99,
+    "description": "RGB backlit mechanical keyboard with tactile switches and programmable keys.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_SX679_.jpg",
+    "rating": { "rate": 4.1, "count": 320 }
+  },
+  {
+    "id": 5,
+    "title": "Sterling Silver Hoop Earrings",
+    "price": 24.0,
+    "description": "Classic hoop earrings in polished sterling silver, hypoallergenic.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "rating": { "rate": 4.6, "count": 98 }
+  },
+  {
+    "id": 6,
+    "title": "Gold Plated Chain Necklace",
+    "price": 59.5,
+    "description": "18k gold plated necklace with a delicate chain, ideal for everyday wear.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+    "rating": { "rate": 4.3, "count": 145 }
+  },
+  {
+    "id": 7,
+    "title": "Cubic Zirconia Ring",
+    "price": 15.99,
+    "description": "Elegant ring set with a cubic zirconia stone, adjustable band.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "rating": { "rate": 3.8, "count": 64 }
+  },
+  {
+    "id": 8,
+    "title": "Men's Slim Fit Casual Shirt",
+    "price": 27.99,
+    "description": "Breathable cotton-blend shirt with a slim fit cut, available in multiple colors.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": { "rate": 4.0, "count": 176 }
+  },
+  {
+    "id": 9,
+    "title": "Men's Winter Puffer Jacket",
+    "price": 89.99,
+    "description": "Insulated puffer jacket with a water-resistant shell, warm for cold weather.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": { "rate": 4.4, "count": 231 }
+  },
+  {
+    "id": 10,
+    "title": "Men's Classic Denim Jeans",
+    "price": 42.0,
+    "description": "Straight fit denim jeans made from durable, comfortable stretch fabric.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+    "rating": { "rate": 3.7, "count": 110 }
+  },
+  {
+    "id": 11,
+    "title": "Women's Floral Summer Dress",
+    "price": 38.5,
+    "description": "Lightweight floral dress with a flattering A-line cut, perfect for summer.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "rating": { "rate": 4.5, "count": 198 }
+  },
+  {
+    "id": 12,
+    "title": "Women's Cropped Denim Jacket",
+    "price": 54.99,
+    "description": "Classic cropped denim jacket, a versatile layering piece for any outfit.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+    "rating": { "rate": 4.2, "count": 143 }
+  },
+  {
+    "id": 13,
+    "title": "Women's High-Waist Leggings",
+    "price": 22.99,
+    "description": "Stretchy high-waist leggings with a soft, breathable fabric for daily wear.",
+    "category": "women's clothing",
+    "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+    "rating": { "rate": 4.0, "count": 267 }
+  },
+  {
+    "id": 14,
+    "title": "Smart Fitness Watch",
+    "price": 129.99,
+    "description": "Fitness tracker with heart rate monitoring, GPS, and a week-long battery.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_SX679_.jpg",
+    "rating": { "rate": 4.3, "count": 289 }
+  },
+  {
+    "id": 15,
+    "title": "Women's Pearl Drop Earrings",
+    "price": 19.5,
+    "description": "Delicate pearl drop earrings with a silver-tone finish.",
+    "category": "jewelery",
+    "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+    "rating": { "rate": 4.1, "count": 76 }
+  }
+]
