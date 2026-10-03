@@ -1,7 +1,7 @@
 import test from "node:test";
 import assert from "node:assert/strict";
 
-import { sortProducts } from "./products.ts";
+import { sortProducts } from "./products";
 
 test("sortProducts keeps the original order when no sort is requested", () => {
   const products = [{ id: 1, price: 12 }, { id: 2, price: 8 }, { id: 3, price: 15 }];
